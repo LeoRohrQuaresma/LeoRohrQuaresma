@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Greetings! I am a proficient <strong>web and mobile developer</strong>.<br> Skilled in the art of front end development. My fervor for UX/UI design is unparalleled, and I am constantly striving to deliver optimal outcomes for end-users. I derive pleasure in working with novel concepts and devising ingenious codes to achieve optimal solutions.
+  Greetings! I am a proficient <strong>full stack developer</strong>.<br> Skilled in the art of front end development. My fervor for UX/UI design is unparalleled, and I am constantly striving to deliver optimal outcomes for end-users. I derive pleasure in working with novel concepts and devising ingenious codes to achieve optimal solutions.
 
 
 <p align="left">
