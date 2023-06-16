@@ -5,7 +5,7 @@
 
 
 <p align="left">
-  🦄 Programming Languages: <strong>Javascript/Typescript.</strong>
+  🦄 Programming Languages: <strong>Javascript/Typescript and Python.</strong>
 </p>
 
 
