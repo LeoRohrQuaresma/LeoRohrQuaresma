@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
-  👋 **Hi, I’m Leo Rohr Quaresma**<br>
+  👋 Hi, I’m Leo Rohr Quaresma<br>
   <strong>Full Stack Developer & RPA Specialist</strong><br>
   🚀 I love building dynamic, user-centric web apps and automating workflows to boost efficiency and reliability.
 </p>
